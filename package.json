@@ -1,0 +1,12 @@
+{
+  "name": "smart reader",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "file-analyzer-tutorial/01-basic-file-reading.js",
+  "scripts": {
+    "dev": "nodemon file-analyzer-tutorial/01-basic-file-reading"
+  }
+}
