@@ -5,8 +5,8 @@
   "license": "ISC",
   "author": "",
   "type": "module",
-  "main": "file-analyzer-tutorial/01-basic-file-reading.js",
+  "main": "file-analyzer-tutorial/02-encodings.js",
   "scripts": {
-    "dev": "nodemon file-analyzer-tutorial/01-basic-file-reading"
+    "dev": "nodemon file-analyzer-tutorial/02-encodings.js"
   }
 }
