@@ -7,6 +7,6 @@
   "type": "module",
   "main": "file-analyzer-tutorial/02-encodings.js",
   "scripts": {
-    "dev": "nodemon file-analyzer-tutorial/02-encodings.js"
+    "dev": "nodemon file-analyzer-tutorial/04-recursive-traversal.js"
   }
 }
